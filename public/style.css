@@ -1,0 +1,12 @@
+ul {
+	list-style: none;
+}
+
+a:hover {
+	color: yellow;
+}
+
+.ppl {
+	background-color: black;
+	color: white;
+}
